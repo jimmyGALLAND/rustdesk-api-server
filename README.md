@@ -1,3 +1,9 @@
+
+$${\color{blue}in\space order\space to\space have\space an\space internationalized\space version\space there\space is\space an\space another\space git }$$
+[https://git.celjim.fr/jimmyGALLAND/rustdesk-api-server](https://git.celjim.fr/jimmyGALLAND/rustdesk-api-server)
+
+
+
 # rustdesk-api-server
 RustDesk Api 服务器端 Go语言版本，支持sqlite3、mysql数据库
 
